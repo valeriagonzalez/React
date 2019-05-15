@@ -1,0 +1,35 @@
+{
+    "todos": [
+        {
+            "title": "recordatorio",
+            "responsable": "mark",
+            "descripcion": "lorem ipsum",
+            "prioridad": "baja"
+        },
+        {
+            "title": "tarea 2",
+            "responsable": "lucas",
+            "descripcion": "lorem ipsum",
+            "prioridad": "media"
+        },
+        {
+            "title": "tarea 3",
+            "responsable": "rosa",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        },
+        {
+            "title": "tarea 4",
+            "responsable": "many",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        },
+        {
+            "title": "tarea 5",
+            "responsable": "vale",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        }
+        
+    ]
+}
